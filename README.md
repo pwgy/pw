@@ -1,7 +1,7 @@
 
  <table>
     <tr>
-    <td colspan="2" align="center">微信如提示停止访问该网页， 请<br/>先点击右上角三个点，选择浏览器打开</td>
+    <td colspan="2" align="center">微信用户， 请先点击<br/>右上角三个点，选择浏览器打开</td>
   </tr>
   <tr>
 <td colspan="2" align="center">
